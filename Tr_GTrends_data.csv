@@ -1,289 +1,289 @@
 Year_Month,Popularity,Term
 2004-01,21,Inflation
-2004-01,3,Recession
-2004-01,44,Supply Chain
-2004-02,22,Inflation
-2004-02,6,Recession
-2004-02,61,Supply Chain
-2004-03,21,Inflation
-2004-03,6,Recession
-2004-03,59,Supply Chain
-2004-04,24,Inflation
-2004-04,8,Recession
-2004-04,51,Supply Chain
-2004-05,25,Inflation
-2004-05,3,Recession
-2004-05,40,Supply Chain
-2004-06,16,Inflation
+2004-01,5,Recession
+2004-01,46,Supply Chain
+2004-02,21,Inflation
+2004-02,5,Recession
+2004-02,32,Supply Chain
+2004-03,25,Inflation
+2004-03,5,Recession
+2004-03,49,Supply Chain
+2004-04,21,Inflation
+2004-04,6,Recession
+2004-04,46,Supply Chain
+2004-05,26,Inflation
+2004-05,5,Recession
+2004-05,54,Supply Chain
+2004-06,19,Inflation
 2004-06,0,Recession
-2004-06,46,Supply Chain
+2004-06,44,Supply Chain
 2004-07,22,Inflation
-2004-07,2,Recession
-2004-07,46,Supply Chain
+2004-07,7,Recession
+2004-07,45,Supply Chain
 2004-08,15,Inflation
-2004-08,5,Recession
-2004-08,33,Supply Chain
+2004-08,2,Recession
+2004-08,38,Supply Chain
 2004-09,17,Inflation
-2004-09,0,Recession
-2004-09,51,Supply Chain
-2004-10,19,Inflation
-2004-10,6,Recession
-2004-10,25,Supply Chain
-2004-11,22,Inflation
-2004-11,3,Recession
+2004-09,2,Recession
+2004-09,49,Supply Chain
+2004-10,22,Inflation
+2004-10,9,Recession
+2004-10,27,Supply Chain
+2004-11,23,Inflation
+2004-11,6,Recession
 2004-11,54,Supply Chain
-2004-12,21,Inflation
-2004-12,4,Recession
-2004-12,38,Supply Chain
-2005-01,18,Inflation
-2005-01,4,Recession
-2005-01,25,Supply Chain
-2005-02,17,Inflation
-2005-02,4,Recession
-2005-02,28,Supply Chain
-2005-03,28,Inflation
-2005-03,5,Recession
-2005-03,35,Supply Chain
+2004-12,17,Inflation
+2004-12,6,Recession
+2004-12,34,Supply Chain
+2005-01,19,Inflation
+2005-01,5,Recession
+2005-01,36,Supply Chain
+2005-02,19,Inflation
+2005-02,5,Recession
+2005-02,34,Supply Chain
+2005-03,25,Inflation
+2005-03,4,Recession
+2005-03,39,Supply Chain
 2005-04,25,Inflation
-2005-04,5,Recession
-2005-04,37,Supply Chain
+2005-04,4,Recession
+2005-04,31,Supply Chain
 2005-05,18,Inflation
-2005-05,4,Recession
-2005-05,37,Supply Chain
-2005-06,16,Inflation
-2005-06,7,Recession
-2005-06,35,Supply Chain
-2005-07,14,Inflation
+2005-05,0,Recession
+2005-05,35,Supply Chain
+2005-06,17,Inflation
+2005-06,9,Recession
+2005-06,22,Supply Chain
+2005-07,13,Inflation
 2005-07,0,Recession
-2005-07,16,Supply Chain
-2005-08,16,Inflation
-2005-08,4,Recession
+2005-07,26,Supply Chain
+2005-08,14,Inflation
+2005-08,2,Recession
 2005-08,37,Supply Chain
-2005-09,20,Inflation
-2005-09,5,Recession
-2005-09,36,Supply Chain
-2005-10,23,Inflation
-2005-10,4,Recession
-2005-10,33,Supply Chain
+2005-09,19,Inflation
+2005-09,8,Recession
+2005-09,24,Supply Chain
+2005-10,21,Inflation
+2005-10,2,Recession
+2005-10,42,Supply Chain
 2005-11,27,Inflation
-2005-11,6,Recession
-2005-11,49,Supply Chain
+2005-11,5,Recession
+2005-11,45,Supply Chain
 2005-12,21,Inflation
-2005-12,5,Recession
-2005-12,23,Supply Chain
-2006-01,19,Inflation
-2006-01,3,Recession
+2005-12,4,Recession
+2005-12,20,Supply Chain
+2006-01,20,Inflation
+2006-01,2,Recession
 2006-01,30,Supply Chain
-2006-02,20,Inflation
-2006-02,3,Recession
-2006-02,35,Supply Chain
-2006-03,21,Inflation
-2006-03,3,Recession
-2006-03,45,Supply Chain
+2006-02,18,Inflation
+2006-02,4,Recession
+2006-02,32,Supply Chain
+2006-03,20,Inflation
+2006-03,2,Recession
+2006-03,48,Supply Chain
 2006-04,23,Inflation
-2006-04,3,Recession
-2006-04,38,Supply Chain
-2006-05,19,Inflation
-2006-05,4,Recession
-2006-05,37,Supply Chain
-2006-06,18,Inflation
-2006-06,4,Recession
-2006-06,33,Supply Chain
-2006-07,14,Inflation
-2006-07,4,Recession
-2006-07,25,Supply Chain
-2006-08,13,Inflation
-2006-08,4,Recession
-2006-08,23,Supply Chain
+2006-04,6,Recession
+2006-04,37,Supply Chain
+2006-05,20,Inflation
+2006-05,3,Recession
+2006-05,38,Supply Chain
+2006-06,17,Inflation
+2006-06,3,Recession
+2006-06,37,Supply Chain
+2006-07,13,Inflation
+2006-07,1,Recession
+2006-07,31,Supply Chain
+2006-08,11,Inflation
+2006-08,3,Recession
+2006-08,25,Supply Chain
 2006-09,15,Inflation
-2006-09,3,Recession
-2006-09,39,Supply Chain
+2006-09,5,Recession
+2006-09,43,Supply Chain
 2006-10,18,Inflation
 2006-10,6,Recession
-2006-10,43,Supply Chain
+2006-10,46,Supply Chain
 2006-11,22,Inflation
 2006-11,6,Recession
-2006-11,43,Supply Chain
-2006-12,17,Inflation
-2006-12,3,Recession
-2006-12,20,Supply Chain
-2007-01,17,Inflation
-2007-01,3,Recession
-2007-01,27,Supply Chain
-2007-02,21,Inflation
+2006-11,41,Supply Chain
+2006-12,19,Inflation
+2006-12,5,Recession
+2006-12,21,Supply Chain
+2007-01,18,Inflation
+2007-01,4,Recession
+2007-01,31,Supply Chain
+2007-02,19,Inflation
 2007-02,5,Recession
-2007-02,32,Supply Chain
+2007-02,39,Supply Chain
 2007-03,19,Inflation
-2007-03,6,Recession
-2007-03,25,Supply Chain
+2007-03,5,Recession
+2007-03,27,Supply Chain
 2007-04,20,Inflation
-2007-04,4,Recession
-2007-04,27,Supply Chain
-2007-05,18,Inflation
-2007-05,6,Recession
-2007-05,25,Supply Chain
+2007-04,3,Recession
+2007-04,29,Supply Chain
+2007-05,17,Inflation
+2007-05,7,Recession
+2007-05,21,Supply Chain
 2007-06,18,Inflation
 2007-06,3,Recession
-2007-06,24,Supply Chain
-2007-07,19,Inflation
-2007-07,3,Recession
-2007-07,30,Supply Chain
+2007-06,27,Supply Chain
+2007-07,18,Inflation
+2007-07,2,Recession
+2007-07,29,Supply Chain
 2007-08,14,Inflation
-2007-08,5,Recession
-2007-08,31,Supply Chain
-2007-09,20,Inflation
+2007-08,7,Recession
+2007-08,26,Supply Chain
+2007-09,18,Inflation
 2007-09,7,Recession
-2007-09,31,Supply Chain
-2007-10,19,Inflation
-2007-10,8,Recession
-2007-10,31,Supply Chain
-2007-11,23,Inflation
+2007-09,29,Supply Chain
+2007-10,18,Inflation
+2007-10,7,Recession
+2007-10,29,Supply Chain
+2007-11,22,Inflation
 2007-11,9,Recession
 2007-11,34,Supply Chain
-2007-12,18,Inflation
-2007-12,6,Recession
+2007-12,17,Inflation
+2007-12,9,Recession
 2007-12,25,Supply Chain
 2008-01,24,Inflation
-2008-01,41,Recession
-2008-01,35,Supply Chain
+2008-01,43,Recession
+2008-01,33,Supply Chain
 2008-02,23,Inflation
-2008-02,17,Recession
-2008-02,32,Supply Chain
-2008-03,25,Inflation
+2008-02,18,Recession
+2008-02,34,Supply Chain
+2008-03,24,Inflation
 2008-03,21,Recession
 2008-03,28,Supply Chain
 2008-04,26,Inflation
-2008-04,21,Recession
-2008-04,32,Supply Chain
+2008-04,22,Recession
+2008-04,31,Supply Chain
 2008-05,24,Inflation
 2008-05,13,Recession
-2008-05,31,Supply Chain
+2008-05,29,Supply Chain
 2008-06,22,Inflation
 2008-06,10,Recession
 2008-06,28,Supply Chain
 2008-07,21,Inflation
-2008-07,11,Recession
-2008-07,31,Supply Chain
+2008-07,13,Recession
+2008-07,33,Supply Chain
 2008-08,15,Inflation
 2008-08,12,Recession
-2008-08,19,Supply Chain
-2008-09,24,Inflation
-2008-09,26,Recession
-2008-09,29,Supply Chain
-2008-10,23,Inflation
-2008-10,64,Recession
-2008-10,32,Supply Chain
+2008-08,21,Supply Chain
+2008-09,21,Inflation
+2008-09,25,Recession
+2008-09,28,Supply Chain
+2008-10,22,Inflation
+2008-10,66,Recession
+2008-10,29,Supply Chain
 2008-11,24,Inflation
-2008-11,60,Recession
-2008-11,39,Supply Chain
+2008-11,62,Recession
+2008-11,35,Supply Chain
 2008-12,22,Inflation
-2008-12,56,Recession
-2008-12,22,Supply Chain
+2008-12,57,Recession
+2008-12,23,Supply Chain
 2009-01,23,Inflation
-2009-01,46,Recession
+2009-01,48,Recession
 2009-01,35,Supply Chain
-2009-02,19,Inflation
-2009-02,63,Recession
-2009-02,39,Supply Chain
+2009-02,18,Inflation
+2009-02,65,Recession
+2009-02,33,Supply Chain
 2009-03,22,Inflation
-2009-03,60,Recession
-2009-03,46,Supply Chain
+2009-03,62,Recession
+2009-03,45,Supply Chain
 2009-04,20,Inflation
-2009-04,43,Recession
-2009-04,35,Supply Chain
+2009-04,45,Recession
+2009-04,36,Supply Chain
 2009-05,18,Inflation
-2009-05,33,Recession
-2009-05,29,Supply Chain
-2009-06,18,Inflation
+2009-05,34,Recession
+2009-05,25,Supply Chain
+2009-06,17,Inflation
 2009-06,27,Recession
-2009-06,30,Supply Chain
+2009-06,27,Supply Chain
 2009-07,15,Inflation
-2009-07,28,Recession
-2009-07,29,Supply Chain
-2009-08,12,Inflation
-2009-08,17,Recession
-2009-08,22,Supply Chain
-2009-09,15,Inflation
+2009-07,30,Recession
+2009-07,25,Supply Chain
+2009-08,13,Inflation
+2009-08,18,Recession
+2009-08,21,Supply Chain
+2009-09,14,Inflation
 2009-09,18,Recession
-2009-09,31,Supply Chain
-2009-10,19,Inflation
-2009-10,26,Recession
+2009-09,29,Supply Chain
+2009-10,18,Inflation
+2009-10,25,Recession
 2009-10,34,Supply Chain
 2009-11,21,Inflation
 2009-11,22,Recession
-2009-11,30,Supply Chain
+2009-11,31,Supply Chain
 2009-12,18,Inflation
-2009-12,17,Recession
-2009-12,30,Supply Chain
-2010-01,21,Inflation
-2010-01,16,Recession
-2010-01,35,Supply Chain
-2010-02,21,Inflation
-2010-02,15,Recession
-2010-02,33,Supply Chain
-2010-03,24,Inflation
-2010-03,17,Recession
-2010-03,35,Supply Chain
+2009-12,19,Recession
+2009-12,31,Supply Chain
+2010-01,20,Inflation
+2010-01,17,Recession
+2010-01,34,Supply Chain
+2010-02,20,Inflation
+2010-02,16,Recession
+2010-02,34,Supply Chain
+2010-03,23,Inflation
+2010-03,18,Recession
+2010-03,37,Supply Chain
 2010-04,20,Inflation
-2010-04,17,Recession
-2010-04,37,Supply Chain
+2010-04,16,Recession
+2010-04,38,Supply Chain
 2010-05,17,Inflation
 2010-05,12,Recession
-2010-05,32,Supply Chain
+2010-05,31,Supply Chain
 2010-06,17,Inflation
-2010-06,12,Recession
-2010-06,33,Supply Chain
+2010-06,11,Recession
+2010-06,32,Supply Chain
 2010-07,15,Inflation
 2010-07,12,Recession
-2010-07,35,Supply Chain
-2010-08,15,Inflation
+2010-07,33,Supply Chain
+2010-08,13,Inflation
 2010-08,15,Recession
-2010-08,24,Supply Chain
+2010-08,27,Supply Chain
 2010-09,16,Inflation
 2010-09,13,Recession
-2010-09,39,Supply Chain
+2010-09,37,Supply Chain
 2010-10,21,Inflation
 2010-10,13,Recession
 2010-10,34,Supply Chain
-2010-11,24,Inflation
+2010-11,23,Inflation
 2010-11,14,Recession
 2010-11,38,Supply Chain
 2010-12,23,Inflation
 2010-12,10,Recession
-2010-12,30,Supply Chain
-2011-01,22,Inflation
-2011-01,9,Recession
-2011-01,30,Supply Chain
+2010-12,29,Supply Chain
+2011-01,21,Inflation
+2011-01,10,Recession
+2011-01,29,Supply Chain
 2011-02,23,Inflation
 2011-02,9,Recession
 2011-02,31,Supply Chain
-2011-03,22,Inflation
+2011-03,21,Inflation
 2011-03,12,Recession
-2011-03,33,Supply Chain
+2011-03,32,Supply Chain
 2011-04,22,Inflation
-2011-04,11,Recession
-2011-04,34,Supply Chain
+2011-04,10,Recession
+2011-04,33,Supply Chain
 2011-05,16,Inflation
 2011-05,9,Recession
-2011-05,28,Supply Chain
-2011-06,18,Inflation
+2011-05,29,Supply Chain
+2011-06,17,Inflation
 2011-06,10,Recession
-2011-06,28,Supply Chain
+2011-06,27,Supply Chain
 2011-07,16,Inflation
-2011-07,7,Recession
-2011-07,26,Supply Chain
-2011-08,15,Inflation
-2011-08,18,Recession
+2011-07,6,Recession
+2011-07,24,Supply Chain
+2011-08,16,Inflation
+2011-08,20,Recession
 2011-08,30,Supply Chain
 2011-09,17,Inflation
-2011-09,20,Recession
+2011-09,21,Recession
 2011-09,29,Supply Chain
 2011-10,21,Inflation
-2011-10,16,Recession
+2011-10,17,Recession
 2011-10,31,Supply Chain
-2011-11,21,Inflation
+2011-11,20,Inflation
 2011-11,16,Recession
-2011-11,38,Supply Chain
+2011-11,37,Supply Chain
 2011-12,20,Inflation
 2011-12,11,Recession
 2011-12,29,Supply Chain
@@ -294,23 +294,23 @@ Year_Month,Popularity,Term
 2012-02,9,Recession
 2012-02,37,Supply Chain
 2012-03,19,Inflation
-2012-03,9,Recession
-2012-03,40,Supply Chain
+2012-03,10,Recession
+2012-03,41,Supply Chain
 2012-04,20,Inflation
-2012-04,9,Recession
+2012-04,10,Recession
 2012-04,34,Supply Chain
 2012-05,17,Inflation
 2012-05,8,Recession
-2012-05,37,Supply Chain
-2012-06,16,Inflation
-2012-06,9,Recession
+2012-05,38,Supply Chain
+2012-06,15,Inflation
+2012-06,10,Recession
 2012-06,33,Supply Chain
 2012-07,13,Inflation
 2012-07,7,Recession
-2012-07,31,Supply Chain
+2012-07,29,Supply Chain
 2012-08,12,Inflation
 2012-08,6,Recession
-2012-08,30,Supply Chain
+2012-08,29,Supply Chain
 2012-09,17,Inflation
 2012-09,8,Recession
 2012-09,33,Supply Chain
@@ -321,15 +321,15 @@ Year_Month,Popularity,Term
 2012-11,12,Recession
 2012-11,41,Supply Chain
 2012-12,15,Inflation
-2012-12,7,Recession
-2012-12,26,Supply Chain
+2012-12,8,Recession
+2012-12,25,Supply Chain
 2013-01,18,Inflation
 2013-01,8,Recession
 2013-01,34,Supply Chain
 2013-02,19,Inflation
-2013-02,7,Recession
-2013-02,43,Supply Chain
-2013-03,20,Inflation
+2013-02,8,Recession
+2013-02,42,Supply Chain
+2013-03,19,Inflation
 2013-03,10,Recession
 2013-03,38,Supply Chain
 2013-04,20,Inflation
@@ -337,13 +337,13 @@ Year_Month,Popularity,Term
 2013-04,39,Supply Chain
 2013-05,16,Inflation
 2013-05,7,Recession
-2013-05,31,Supply Chain
+2013-05,30,Supply Chain
 2013-06,15,Inflation
 2013-06,6,Recession
-2013-06,31,Supply Chain
-2013-07,14,Inflation
+2013-06,32,Supply Chain
+2013-07,13,Inflation
 2013-07,4,Recession
-2013-07,30,Supply Chain
+2013-07,31,Supply Chain
 2013-08,14,Inflation
 2013-08,5,Recession
 2013-08,35,Supply Chain
@@ -356,9 +356,9 @@ Year_Month,Popularity,Term
 2013-11,18,Inflation
 2013-11,7,Recession
 2013-11,43,Supply Chain
-2013-12,18,Inflation
+2013-12,17,Inflation
 2013-12,6,Recession
-2013-12,31,Supply Chain
+2013-12,29,Supply Chain
 2014-01,23,Inflation
 2014-01,6,Recession
 2014-01,40,Supply Chain
@@ -367,143 +367,143 @@ Year_Month,Popularity,Term
 2014-02,38,Supply Chain
 2014-03,21,Inflation
 2014-03,7,Recession
-2014-03,41,Supply Chain
+2014-03,42,Supply Chain
 2014-04,21,Inflation
 2014-04,7,Recession
 2014-04,41,Supply Chain
 2014-05,19,Inflation
-2014-05,5,Recession
-2014-05,38,Supply Chain
-2014-06,20,Inflation
+2014-05,6,Recession
+2014-05,39,Supply Chain
+2014-06,19,Inflation
 2014-06,6,Recession
-2014-06,35,Supply Chain
+2014-06,32,Supply Chain
 2014-07,17,Inflation
-2014-07,4,Recession
+2014-07,5,Recession
 2014-07,41,Supply Chain
 2014-08,16,Inflation
-2014-08,3,Recession
-2014-08,34,Supply Chain
+2014-08,4,Recession
+2014-08,32,Supply Chain
 2014-09,19,Inflation
 2014-09,7,Recession
-2014-09,42,Supply Chain
-2014-10,20,Inflation
+2014-09,43,Supply Chain
+2014-10,19,Inflation
 2014-10,9,Recession
-2014-10,43,Supply Chain
-2014-11,22,Inflation
+2014-10,42,Supply Chain
+2014-11,21,Inflation
 2014-11,11,Recession
-2014-11,45,Supply Chain
+2014-11,44,Supply Chain
 2014-12,21,Inflation
 2014-12,10,Recession
-2014-12,33,Supply Chain
+2014-12,34,Supply Chain
 2015-01,24,Inflation
-2015-01,19,Recession
+2015-01,20,Recession
 2015-01,38,Supply Chain
 2015-02,23,Inflation
-2015-02,11,Recession
+2015-02,12,Recession
 2015-02,42,Supply Chain
 2015-03,21,Inflation
 2015-03,11,Recession
 2015-03,47,Supply Chain
 2015-04,22,Inflation
 2015-04,8,Recession
-2015-04,39,Supply Chain
+2015-04,41,Supply Chain
 2015-05,20,Inflation
 2015-05,9,Recession
-2015-05,34,Supply Chain
+2015-05,33,Supply Chain
 2015-06,20,Inflation
-2015-06,7,Recession
+2015-06,8,Recession
 2015-06,36,Supply Chain
 2015-07,18,Inflation
-2015-07,28,Recession
+2015-07,29,Recession
 2015-07,34,Supply Chain
 2015-08,16,Inflation
 2015-08,23,Recession
-2015-08,33,Supply Chain
+2015-08,32,Supply Chain
 2015-09,19,Inflation
-2015-09,37,Recession
-2015-09,37,Supply Chain
+2015-09,38,Recession
+2015-09,38,Supply Chain
 2015-10,21,Inflation
 2015-10,17,Recession
-2015-10,45,Supply Chain
-2015-11,24,Inflation
-2015-11,11,Recession
+2015-10,44,Supply Chain
+2015-11,23,Inflation
+2015-11,12,Recession
 2015-11,47,Supply Chain
-2015-12,26,Inflation
-2015-12,10,Recession
+2015-12,25,Inflation
+2015-12,11,Recession
 2015-12,35,Supply Chain
 2016-01,25,Inflation
-2016-01,17,Recession
-2016-01,42,Supply Chain
+2016-01,18,Recession
+2016-01,43,Supply Chain
 2016-02,22,Inflation
-2016-02,14,Recession
-2016-02,47,Supply Chain
+2016-02,15,Recession
+2016-02,45,Supply Chain
 2016-03,22,Inflation
 2016-03,11,Recession
-2016-03,49,Supply Chain
+2016-03,50,Supply Chain
 2016-04,21,Inflation
-2016-04,10,Recession
+2016-04,11,Recession
 2016-04,41,Supply Chain
-2016-05,19,Inflation
-2016-05,7,Recession
+2016-05,18,Inflation
+2016-05,8,Recession
 2016-05,36,Supply Chain
-2016-06,18,Inflation
+2016-06,17,Inflation
 2016-06,10,Recession
-2016-06,38,Supply Chain
+2016-06,37,Supply Chain
 2016-07,16,Inflation
 2016-07,8,Recession
 2016-07,35,Supply Chain
 2016-08,15,Inflation
-2016-08,7,Recession
-2016-08,29,Supply Chain
+2016-08,8,Recession
+2016-08,28,Supply Chain
 2016-09,19,Inflation
 2016-09,8,Recession
 2016-09,40,Supply Chain
-2016-10,21,Inflation
+2016-10,20,Inflation
 2016-10,9,Recession
-2016-10,44,Supply Chain
-2016-11,24,Inflation
+2016-10,43,Supply Chain
+2016-11,23,Inflation
 2016-11,12,Recession
 2016-11,46,Supply Chain
-2016-12,22,Inflation
-2016-12,7,Recession
-2016-12,35,Supply Chain
+2016-12,21,Inflation
+2016-12,8,Recession
+2016-12,36,Supply Chain
 2017-01,22,Inflation
 2017-01,9,Recession
 2017-01,41,Supply Chain
 2017-02,21,Inflation
 2017-02,8,Recession
-2017-02,47,Supply Chain
+2017-02,48,Supply Chain
 2017-03,24,Inflation
 2017-03,10,Recession
-2017-03,52,Supply Chain
+2017-03,51,Supply Chain
 2017-04,24,Inflation
 2017-04,8,Recession
-2017-04,45,Supply Chain
+2017-04,44,Supply Chain
 2017-05,19,Inflation
 2017-05,7,Recession
 2017-05,39,Supply Chain
 2017-06,19,Inflation
 2017-06,6,Recession
 2017-06,38,Supply Chain
-2017-07,17,Inflation
+2017-07,16,Inflation
 2017-07,5,Recession
 2017-07,40,Supply Chain
 2017-08,16,Inflation
 2017-08,5,Recession
-2017-08,41,Supply Chain
+2017-08,39,Supply Chain
 2017-09,18,Inflation
-2017-09,7,Recession
+2017-09,8,Recession
 2017-09,49,Supply Chain
 2017-10,20,Inflation
 2017-10,7,Recession
-2017-10,49,Supply Chain
-2017-11,23,Inflation
+2017-10,51,Supply Chain
+2017-11,22,Inflation
 2017-11,7,Recession
 2017-11,46,Supply Chain
 2017-12,22,Inflation
 2017-12,6,Recession
 2017-12,37,Supply Chain
-2018-01,27,Inflation
+2018-01,26,Inflation
 2018-01,8,Recession
 2018-01,54,Supply Chain
 2018-02,27,Inflation
@@ -512,43 +512,43 @@ Year_Month,Popularity,Term
 2018-03,25,Inflation
 2018-03,8,Recession
 2018-03,57,Supply Chain
-2018-04,24,Inflation
+2018-04,23,Inflation
 2018-04,10,Recession
-2018-04,47,Supply Chain
+2018-04,46,Supply Chain
 2018-05,22,Inflation
-2018-05,8,Recession
+2018-05,9,Recession
 2018-05,45,Supply Chain
 2018-06,19,Inflation
-2018-06,14,Recession
-2018-06,49,Supply Chain
+2018-06,15,Recession
+2018-06,47,Supply Chain
 2018-07,18,Inflation
 2018-07,9,Recession
-2018-07,45,Supply Chain
-2018-08,23,Inflation
-2018-08,8,Recession
+2018-07,44,Supply Chain
+2018-08,22,Inflation
+2018-08,9,Recession
 2018-08,44,Supply Chain
-2018-09,25,Inflation
+2018-09,24,Inflation
 2018-09,12,Recession
 2018-09,51,Supply Chain
-2018-10,26,Inflation
+2018-10,25,Inflation
 2018-10,13,Recession
 2018-10,52,Supply Chain
-2018-11,26,Inflation
+2018-11,25,Inflation
 2018-11,12,Recession
 2018-11,51,Supply Chain
 2018-12,24,Inflation
-2018-12,21,Recession
-2018-12,38,Supply Chain
+2018-12,22,Recession
+2018-12,39,Supply Chain
 2019-01,24,Inflation
 2019-01,15,Recession
-2019-01,52,Supply Chain
+2019-01,50,Supply Chain
 2019-02,22,Inflation
 2019-02,13,Recession
 2019-02,52,Supply Chain
 2019-03,23,Inflation
 2019-03,18,Recession
-2019-03,56,Supply Chain
-2019-04,25,Inflation
+2019-03,55,Supply Chain
+2019-04,24,Inflation
 2019-04,15,Recession
 2019-04,55,Supply Chain
 2019-05,21,Inflation
@@ -557,117 +557,132 @@ Year_Month,Popularity,Term
 2019-06,19,Inflation
 2019-06,14,Recession
 2019-06,46,Supply Chain
-2019-07,20,Inflation
+2019-07,19,Inflation
 2019-07,12,Recession
 2019-07,51,Supply Chain
 2019-08,17,Inflation
-2019-08,47,Recession
+2019-08,48,Recession
 2019-08,44,Supply Chain
-2019-09,22,Inflation
+2019-09,21,Inflation
 2019-09,23,Recession
 2019-09,61,Supply Chain
 2019-10,22,Inflation
 2019-10,24,Recession
 2019-10,56,Supply Chain
 2019-11,24,Inflation
-2019-11,20,Recession
+2019-11,21,Recession
 2019-11,63,Supply Chain
-2019-12,22,Inflation
-2019-12,17,Recession
+2019-12,21,Inflation
+2019-12,18,Recession
 2019-12,49,Supply Chain
 2020-01,24,Inflation
-2020-01,15,Recession
+2020-01,16,Recession
 2020-01,63,Supply Chain
 2020-02,25,Inflation
-2020-02,19,Recession
-2020-02,76,Supply Chain
-2020-03,22,Inflation
+2020-02,20,Recession
+2020-02,75,Supply Chain
+2020-03,21,Inflation
 2020-03,100,Recession
-2020-03,75,Supply Chain
-2020-04,27,Inflation
-2020-04,41,Recession
-2020-04,66,Supply Chain
-2020-05,23,Inflation
+2020-03,74,Supply Chain
+2020-04,26,Inflation
+2020-04,42,Recession
+2020-04,67,Supply Chain
+2020-05,22,Inflation
 2020-05,28,Recession
-2020-05,54,Supply Chain
+2020-05,53,Supply Chain
 2020-06,19,Inflation
 2020-06,15,Recession
 2020-06,59,Supply Chain
-2020-07,21,Inflation
-2020-07,14,Recession
+2020-07,22,Inflation
+2020-07,15,Recession
 2020-07,55,Supply Chain
 2020-08,22,Inflation
-2020-08,13,Recession
-2020-08,53,Supply Chain
+2020-08,14,Recession
+2020-08,52,Supply Chain
 2020-09,22,Inflation
 2020-09,11,Recession
 2020-09,61,Supply Chain
 2020-10,24,Inflation
 2020-10,12,Recession
-2020-10,69,Supply Chain
+2020-10,68,Supply Chain
 2020-11,22,Inflation
 2020-11,11,Recession
-2020-11,61,Supply Chain
+2020-11,62,Supply Chain
 2020-12,27,Inflation
 2020-12,9,Recession
-2020-12,51,Supply Chain
+2020-12,50,Supply Chain
 2021-01,25,Inflation
 2021-01,9,Recession
 2021-01,54,Supply Chain
 2021-02,33,Inflation
-2021-02,8,Recession
+2021-02,9,Recession
 2021-02,62,Supply Chain
-2021-03,38,Inflation
+2021-03,37,Inflation
 2021-03,8,Recession
-2021-03,60,Supply Chain
-2021-04,33,Inflation
+2021-03,59,Supply Chain
+2021-04,32,Inflation
 2021-04,8,Recession
-2021-04,56,Supply Chain
+2021-04,55,Supply Chain
 2021-05,41,Inflation
-2021-05,6,Recession
-2021-05,51,Supply Chain
-2021-06,35,Inflation
-2021-06,5,Recession
-2021-06,47,Supply Chain
-2021-07,30,Inflation
-2021-07,6,Recession
-2021-07,49,Supply Chain
+2021-05,7,Recession
+2021-05,52,Supply Chain
+2021-06,34,Inflation
+2021-06,6,Recession
+2021-06,48,Supply Chain
+2021-07,29,Inflation
+2021-07,5,Recession
+2021-07,48,Supply Chain
 2021-08,28,Inflation
 2021-08,4,Recession
 2021-08,49,Supply Chain
-2021-09,35,Inflation
-2021-09,6,Recession
+2021-09,33,Inflation
+2021-09,7,Recession
 2021-09,63,Supply Chain
-2021-10,52,Inflation
+2021-10,50,Inflation
 2021-10,9,Recession
 2021-10,88,Supply Chain
-2021-11,56,Inflation
+2021-11,55,Inflation
 2021-11,8,Recession
 2021-11,96,Supply Chain
-2021-12,51,Inflation
+2021-12,50,Inflation
 2021-12,7,Recession
 2021-12,62,Supply Chain
-2022-01,65,Inflation
+2022-01,64,Inflation
 2022-01,10,Recession
 2022-01,100,Supply Chain
-2022-02,65,Inflation
+2022-02,69,Inflation
 2022-02,13,Recession
-2022-02,95,Supply Chain
-2022-03,72,Inflation
-2022-03,24,Recession
+2022-02,94,Supply Chain
+2022-03,70,Inflation
+2022-03,25,Recession
 2022-03,99,Supply Chain
 2022-04,69,Inflation
-2022-04,30,Recession
-2022-04,89,Supply Chain
+2022-04,31,Recession
+2022-04,90,Supply Chain
 2022-05,71,Inflation
-2022-05,46,Recession
+2022-05,47,Recession
 2022-05,72,Supply Chain
 2022-06,100,Inflation
 2022-06,93,Recession
-2022-06,84,Supply Chain
-2022-07,84,Inflation
-2022-07,84,Recession
+2022-06,83,Supply Chain
+2022-07,79,Inflation
+2022-07,86,Recession
 2022-07,78,Supply Chain
-2022-08,66,Inflation
-2022-08,37,Recession
-2022-08,68,Supply Chain
+2022-08,70,Inflation
+2022-08,38,Recession
+2022-08,70,Supply Chain
+2022-09,75,Inflation
+2022-09,44,Recession
+2022-09,82,Supply Chain
+2022-10,80,Inflation
+2022-10,86,Recession
+2022-10,81,Supply Chain
+2022-11,80,Inflation
+2022-11,59,Recession
+2022-11,89,Supply Chain
+2022-12,75,Inflation
+2022-12,41,Recession
+2022-12,69,Supply Chain
+2023-01,60,Inflation
+2023-01,43,Recession
+2023-01,63,Supply Chain
