@@ -40,7 +40,7 @@ jobs:
         
     - name: Delete old file
       run: |
-        unlink("Data/RTM_V2.csv")
+        echo unlink("Data/RTM_V2.csv")
         
     #- name: Remove file
     #  run: git rm Data/Global_Merchandise_Trade.xlsx
