@@ -1,5 +1,6 @@
 library(readxl)
 library(dplyr)
+library(janitor)
 
 destfile <- "Data/Global_Merchandise_Trade.xlsx"
 
