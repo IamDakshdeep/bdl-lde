@@ -1,5 +1,4 @@
 library(readxl)
-library(tidyr)
 library(dplyr)
 
 destfile <- "Data/Global_Merchandise_Trade.xlsx"
