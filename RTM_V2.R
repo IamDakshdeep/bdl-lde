@@ -100,5 +100,5 @@ df_2023 <- na_if(df_2023, 0)
 
 Collected = rbind(df_2019,df_2020,df_2021,df_2022,df_2023)
 
-savepath2 = "C:/Users/dsingh/Files to save"
+#savepath2 = "C:/Users/dsingh/Files to save"
 write.csv(Collected, file   = paste0("Data/Revenue_ton_mile_V2.csv")  , row.names = F)
