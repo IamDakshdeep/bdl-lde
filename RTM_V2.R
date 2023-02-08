@@ -78,7 +78,6 @@ df_2022 <- tibble::rownames_to_column(df_2022, "Week")%>% dplyr::mutate("Year" =
 
 df_2022 = df_2022 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
 
-df_2022 <- na_if(df_2022, 0)
 
 
 ##2023
@@ -98,7 +97,6 @@ df_2023 <- tibble::rownames_to_column(df_2023, "Week")%>% dplyr::mutate("Year" =
 
 df_2023 = df_2023 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
 
-df_2023 <- na_if(df_2023, 0)
 
 
 
