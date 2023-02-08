@@ -35,12 +35,12 @@ jobs:
     # Set-up R
     - name: Install packages
       run: |
-        echo "install.packages(c('dplyr', 'ggplot2','readxl'), repos='https://cloud.r-project.org')"
+        R echo "install.packages(c('dplyr', 'ggplot2','readxl'), repos='https://cloud.r-project.org')"
 
         
     - name: Delete old file
       run: |
-        echo "unlink("Data/RTM_V2.csv")"
+        R echo "unlink("Data/RTM_V2.csv")"
         
     #- name: Remove file
     #  run: git rm Data/Global_Merchandise_Trade.xlsx
