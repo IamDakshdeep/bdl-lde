@@ -103,4 +103,4 @@ df_2023 = df_2023 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 Collected = rbind(df_2019,df_2020,df_2021,df_2022,df_2023)
 
 #savepath2 = "C:/Users/dsingh/Files to save"
-write.csv(Collected, file   = paste0("Data/Revenue_ton_mile_V2.csv")  , row.names = F)
+write.csv(Collected, file   = paste0("Data/Global_Merchandise_Trade.csv")  , row.names = F)
